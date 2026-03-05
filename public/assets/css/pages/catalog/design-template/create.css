@@ -1,0 +1,23 @@
+.canvas-wrapper {
+    border: 1px dashed #ced4da;
+    padding: 12px;
+    background: #f8f9fa;
+    border-radius: 6px;
+    margin-top: 1rem;
+}
+
+canvas {
+    border: 1px solid #dee2e6;
+}
+
+.nav-tabs .btn {
+    margin-right: 6px;
+}
+
+.upload-loader {
+    margin-top: 6px;
+    font-size: 0.85rem;
+    color: #6c757d;
+    display: flex;
+    align-items: center;
+}
